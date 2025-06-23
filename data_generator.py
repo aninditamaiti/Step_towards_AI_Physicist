@@ -4,7 +4,7 @@ from html_to_tex_converter import HTMLToLaTeXConverter  # replace with the actua
 
 # 2. Define your URL and output path
 url = "https://arxiv.org/html/2506.14609v1"
-output_path = "/Users/anindita/Desktop/postdoc/industry_job/FirstPrinciples/AI_Physicist/data/2506.14609v1.txt"
+output_path = "dataset2506.14609v1.txt"
 
 # 3. Initialize and run the conversion
 converter = HTMLToLaTeXConverter(url)
